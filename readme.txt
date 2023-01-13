@@ -1,0 +1,2 @@
+A game where the user guesses as many US state names as they can. The user can exit by typing in 'exit'.
+The CSV option demonstrates how the same can be achieved without pandas
